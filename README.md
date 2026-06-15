@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Construindo+projetos+para+evoluir+na+pratica;Python%2C+backend%2C+APIs+REST%2C+redes+e+organizacao+de+codigo;Aprendendo+seguranca+da+informacao+um+passo+de+cada+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Construindo+projetos+para+evoluir+na+pratica;Python%2C+backend%2C+APIs+REST%2C+redes+e+organizacao+de+codigo;Aprendendo+seguranca+da+informacao" alt="Typing SVG" />
 </p>
 
 ---
