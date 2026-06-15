@@ -28,7 +28,7 @@ Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, co
 <!-- profile-status:start -->
 - Estudando backend, persistencia, organizacao de APIs e modelagem de projetos
 - Aprofundando fundamentos de seguranca da informacao, redes e continuidade de estudos tecnicos
-- Atualizado em: manualmente
+- Atualizado em: 15/06/2026
 - Recado: unindo base academica, pratica e apresentacao mais profissional
 <!-- profile-status:end -->
 
