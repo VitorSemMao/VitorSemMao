@@ -25,7 +25,7 @@ Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, co
 ## Foco atual
 
 <!-- profile-status:start -->
-- Estudando backend, persistencia e organizacao de APIs
+- Estudando backend, persistencia e organizacao de APIs no dia a dia
 - Atualizado em: manualmente
 - Recado: transformando estudo em projetos cada vez mais consistentes
 <!-- profile-status:end -->
