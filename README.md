@@ -1,22 +1,23 @@
 <h1 align="center">Vitor Pereira da Costa</h1>
 
 <p align="center">
-  Estudante de Ciencia da Computacao no UniCEUB | Backend | APIs | Desenvolvimento de Software
+  Estudante de Ciencia da Computacao no UniCEUB | Backend | Python | APIs | Seguranca da Informacao
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Construindo+projetos+para+evoluir+na+pratica;Python%2C+backend%2C+APIs+REST+e+organizacao+de+codigo;Aprendendo+um+projeto+de+cada+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Construindo+projetos+para+evoluir+na+pratica;Python%2C+backend%2C+APIs+REST%2C+redes+e+organizacao+de+codigo;Aprendendo+seguranca+da+informacao+um+passo+de+cada+vez" alt="Typing SVG" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, com interesse em desenvolvimento de software, backend, APIs e organizacao de codigo. Gosto de transformar projetos academicos em entregas mais consistentes, funcionais e bem apresentadas, usando cada projeto como espaco para aprender melhor a base.
+Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, com interesse em desenvolvimento de software, backend, APIs e seguranca da informacao. Ao longo da faculdade venho conciliando programacao, redes e organizacao de sistemas com projetos academicos mais praticos, buscando transformar estudo em entregas consistentes e cada vez mais profissionais.
 
 - Brasilia - DF
 - Foco em Python, backend, logica e estruturacao de sistemas
-- Interesse em seguranca da informacao como area de crescimento
+- Interesse crescente em seguranca da informacao, redes e boas praticas
+- Estudos complementares com fundamentos ligados a ISO 27001 e trilhas da Cisco
 - Pessoa com Deficiencia (PCD), elegivel para vagas afirmativas
 - Disponibilidade imediata
 
@@ -25,9 +26,10 @@ Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, co
 ## Foco atual
 
 <!-- profile-status:start -->
-- Estudando backend, persistencia e organizacao de APIs no dia a dia
+- Estudando backend, persistencia, organizacao de APIs e modelagem de projetos
+- Aprofundando fundamentos de seguranca da informacao, redes e continuidade de estudos tecnicos
 - Atualizado em: manualmente
-- Recado: transformando estudo em projetos cada vez mais consistentes
+- Recado: unindo base academica, pratica e apresentacao mais profissional
 <!-- profile-status:end -->
 
 ---
@@ -61,6 +63,8 @@ Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, co
 - Modelagem de dados, operacoes CRUD e SQL
 - Versionamento com Git, commits e branches
 - Depuracao, automacao de scripts e codigo limpo
+- Fundamentos de redes e interesse aplicado em seguranca da informacao
+- Contato com boas praticas e normas de seguranca, incluindo estudos introdutorios de ISO 27001
 
 ---
 
@@ -69,6 +73,8 @@ Sou estudante de Ciencia da Computacao no UniCEUB, atualmente no 7o semestre, co
 - Sistemas de recomendacao, APIs e projetos academicos
 - Backend com FastAPI e organizacao de servicos
 - Estudos praticos com Python, C, C++, JavaScript e Golang
+- Seguranca da informacao, redes e evolucao tecnica constante
+- Tecnologia com impacto real, incluindo discussoes sobre diversidade e acesso na area
 - Automacao e melhoria continua de fluxo de desenvolvimento
 
 ---
